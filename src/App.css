@@ -39,7 +39,8 @@
 
 
 .contenedor {
-  margin-top: 50px;
+margin-top: 50px;
+ 
 }
 
 .contenedor-total {
@@ -48,4 +49,21 @@
   justify-content: center;
   align-items: center;
   height: 20vh;
+}
+
+.inicio{
+  color: #fff;
+  text-decoration: none;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.sing{
+  font-size: 60px;
+}
+
+.card {
+  background-color: rgb(185, 185, 185);
 }

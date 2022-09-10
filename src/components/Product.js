@@ -51,8 +51,8 @@ export default function Product({product : {id, name, productType, price, image,
   }
 
   return (
-    <Card sx={{ maxWidth: 345 }}>
-      <CardHeader
+    <Card sx={{ maxWidth: 345 }} >
+      <CardHeader className="card"
         action={
          <Typography
          className={ClassNames.action}

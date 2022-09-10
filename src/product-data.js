@@ -39,6 +39,86 @@ const products = [
         image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
         description: "EEEEEEEEEEEEE"
     },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
+    {
+        id: 5,
+        name: "Teclado",
+        productType:"Perifericos",
+        price: 10000,  
+        image: "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/214/392/products/1-tauro1-27f56a49d460a7d78a16270024673482-1024-1024.jpg",
+        description: "EEEEEEEEEEEEE"
+    },
 ];
 
 export default products;
